@@ -141,4 +141,4 @@ def download(language):
     target_file = open(target_filename, "w")
     target_file.write(output)
     target_file.close()
-    return send_file(target_file, as_attachment=True)
+    return send_file(target_filename, as_attachment=True)

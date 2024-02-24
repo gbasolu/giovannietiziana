@@ -1,64 +1,32 @@
 betrothed:
-  giovanni:
-    Sono nato a Rosignano e dopo aver girovagato per l'Italia, sono approdato a Manchester, dove lavoro e vivo per una buona parte dell'anno.
-    Sono un ingegnere informatico con la passione per i motori e la velocità, la natura, la montagna e i viaggi in giro per il mondo.
-    Riservato e razionale, sono estremamente sensibile e un po' permaloso.
-    Amo la musica anche se in pista somiglio piuttosto ad un "orso".
-    Adoro la notte e dormire fino a tardi al mattino.
-    Tutti vi lamentate perché non rispondo mai al telefono, ma forse non vi hanno spiegato che il cellulare serve per giocare a risiko.
-    Cercavo una "lady" dall'animo speciale, con una mente brillante e un cuore grande. E quando ho incontrato Tiziana, non ho avuto dubbi.
-    Mi ha conquistato con il suo sorriso, il suo sguardo profondo e il suo delizioso "guacamole".
-    Era lei che aspettavo da oltre 50 anni e ora voglio che diventi mia per sempre. Perfetta per me. Perfetti insieme.
-
-  tiziana:
-    Sono nata a Grosseto e ho vissuto la mia vita in giro per l'Italia e all'estero.
-    Irrequieta, impulsiva, testarda e appassionata. Non ho mai vissuto in superficie.
-    Sono un avvocato con la passione per il mare, il sole e il buon vino.
-    Amo la musica, stare in mezzo alla gente e ballare fino al mattino.
-    Viaggiare è il mio modo di vivere.
-    I posti più belli in cui sono stata?
-    Il Messico e la Giordania ma il posto più bello adesso è tra le braccia di Giovanni e il mio viaggio più bello inizia proprio oggi con lui.
-    Il mio legame viscerale con l'Inghilterra, dove ho vissuto per tanti anni, mi ha portato fino a lui,
-    che ha conquistato il mio cuore con la sua voce, la sua mente complessa e il suo essere ancora bambino spontaneo e sincero,
-    capace di emozionarsi per le piccole cose. Era improbabile che le nostre vite si incrociassero ma il destino ha avuto più fantasia di noi.
-    Perfetto per me. Perfetti insieme.
-
-ceremony:
-  where: Chiesa di San Michele Arcangelo, 58036 Sassofortino (GR)
-  when: 1 Giugno 2024, 15:00 - 16:00
-  description:
-    Convoleremo a giuste nozze nella Chiesa di San Michele Arcangelo, a Sassofortino,
-    un grazioso e antico paesino dell'entroterra maremmano, nel comune di Roccastrada.
-    In questa Chiesa, che per noi riveste un significato speciale,
-    la celebrazione religiosa iniziera' alle ore 15 e ad officiarla sara' il nostro caro amico Don Giovanni Ricciardi.
-    Durante la cerimonia il nostro musicista Alex Petrini farà commuovere i presenti con alcuni pezzi a chitarra e voce.
-    Al termine della celebrazione liturgica si svolgerà il rito della luce.
-
-celebration:
-  where: Fattoria La Principina, via dei Girasoli, 58100 Grosseto (GR)
-  when: 1 Giugno 2024, 17:00 - 00:00
-  description:
-    Mentre noi faremo una sosta per un breve shooting fotografico nel borgo medioevale di Roccatederighi,
-    i nostri ospiti potranno gustare un delizioso aperitivo alla "Fattoria La Principina", un luogo incantato che sembra uscito da una fiaba,
-    pochi chilometri fuori Grosseto, immerso nella pineta della costa maremmana e a pochi passi dal mare.
-    La nostra festa avrà inizio con l'apertura del buffet verso le 18:30, e proseguirà tra una portata e l'altra,
-    fino alla torta nuziale, con giochi, balli e musica dal vivo con la splendida voce di Alex Petrini.
-    E, dulcis in fundo, potremo scatenarci e ballare fino a tarda notte.
-
+  giovanni: "Sono nato a Rosignano e dopo aver girovagato per l'Italia, sono approdato\
+    \ a Manchester, dove lavoro e vivo per una buona parte dell'anno. Sono un ingegnere\
+    \ informatico con la passione per i motori e la velocit\xE0, la natura, la montagna\
+    \ e i viaggi in giro per il mondo. Riservato e razionale, sono estremamente sensibile\
+    \ e un po' permaloso. Amo la musica anche se in pista somiglio piuttosto ad un\
+    \ \"orso\". Adoro la notte e dormire fino a tardi al mattino. Tutti vi lamentate\
+    \ perch\xE9 non rispondo mai al telefono, ma forse non vi hanno spiegato che il\
+    \ cellulare serve per giocare a risiko. Cercavo una \"lady\" dall'animo speciale,\
+    \ con una mente brillante e un cuore grande. E quando ho incontrato Tiziana, non\
+    \ ho avuto dubbi. Mi ha conquistato con il suo sorriso, il suo sguardo profondo\
+    \ e il suo delizioso \"guacamole\". Era lei che aspettavo da oltre 50 anni e ora\
+    \ voglio che diventi mia per sempre. Perfetta per me. Perfetti insieme."
+  tiziana: "Sono nata a Grosseto e ho vissuto la mia vita in giro per l'Italia e all'estero.\
+    \ Irrequieta, impulsiva, testarda e appassionata. Non ho mai vissuto in superficie.\
+    \ Sono un avvocato con la passione per il mare, il sole e il buon vino. Amo la\
+    \ musica, stare in mezzo alla gente e ballare fino al mattino. Viaggiare \xE8\
+    \ il mio modo di vivere. I posti pi\xF9 belli in cui sono stata? Il Messico e\
+    \ la Giordania ma il posto pi\xF9 bello adesso \xE8 tra le braccia di Giovanni\
+    \ e il mio viaggio pi\xF9 bello inizia proprio oggi con lui. Il mio legame viscerale\
+    \ con l'Inghilterra, dove ho vissuto per tanti anni, mi ha portato fino a lui,\
+    \ che ha conquistato il mio cuore con la sua voce, la sua mente complessa e il\
+    \ suo essere ancora bambino spontaneo e sincero, capace di emozionarsi per le\
+    \ piccole cose. Era improbabile che le nostre vite si incrociassero ma il destino\
+    \ ha avuto pi\xF9 fantasia di noi. Perfetto per me. Perfetti insieme."
 cast:
-  priest:
-    bold: Sacerdote officiante
-    normal: Don Giovanni Ricciardi
-  witnesses:
-    giovanni:
-      bold: Testimoni dello sposo
-      normal: le sorelle Elisa e Francesca
-    tiziana:
-      bold: Testimoni della sposa
-      normal: i figli Valerio e Sophia
-  pageboy:
-    bold: Paggetto
-    normal: il figlio dello sposo Alessandro
+  cakes:
+    bold: Torta nuziale
+    normal: Pasticceria Montanelli (GR)
   chaperon:
     giovanni:
       bold: Accompagna lo sposo
@@ -66,12 +34,6 @@ cast:
     tiziana:
       bold: Accompagna la sposa
       normal: il fratello Antonio
-  logo:
-    bold: Logo del matrimonio (gli Angeli)
-    normal: la figlia della sposa Sophia
-  driver:
-    bold: Autista degli sposi
-    normal: il figlio della sposa Valerio
   dresses:
     giovanni:
       bold: 2do
@@ -79,149 +41,193 @@ cast:
     tiziana:
       bold: Abito della sposa
       normal: Wed 2B (Stock on Trent, UK)
+  driver:
+    bold: Autista degli sposi
+    normal: il figlio della sposa Valerio
   flowers:
     bold: Addobbi floreali
     normal: Patrizia di Michela Zanelli (GR)
-  cakes:
-    bold: Torta nuziale
-    normal: Pasticceria Montanelli (GR)
+  logo:
+    bold: Logo del matrimonio (gli Angeli)
+    normal: la figlia della sposa Sophia
+  menu:
+    bold: "Men\xF9 e segnaposto"
+    normal: tipografia La Stampa (GR)
+  pageboy:
+    bold: Paggetto
+    normal: il figlio dello sposo Alessandro
+  priest:
+    bold: Sacerdote officiante
+    normal: Don Giovanni Ricciardi
   rings:
     bold: Fedi nuziali
     normal: Laboratorio orafo Cartesio di Gabriella Cartella (GR)
-  menu:
-    bold: Menù e segnaposto
-    normal: tipografia La Stampa (GR)
-
-footer:
-  info: Per qualunque informazione contattaci
-  copyright: Sito web realizzato da Valerio Veneziano
-
-honeymoon:
-  title:
-    La tua presenza al nostro matrimonio &egrave; per noi il dono pi&ugrave; bello, ma se desideri omaggiarci con un regalo,
-    puoi aiutarci a realizzare il nostro sogno di una LUNA DI MIELE nel meraviglioso PER&#217.
-  saying: O tu vai in Per&ugrave;, o tu sposti la Chiesa, o tu vinci al Totocalcio
-  crowdfund: Per contribuire al nostro viaggio di nozze puoi donare qualunque somma aderendo al nostro crowdfunding (raccolta fondi) cliccando sul lama
-  wire:
-    title: oppure facendo un bonifico sul c/c bancario
-    lines:
-      - label: Intestatario
-        value: Tiziana Scalandrelli
-      - label: IBAN
-        value: IT21B0306234210000001517631
-      - label: Causale
-        value: "viaggio di nozze Giovanni e Tiziana"
-
+  witnesses:
+    giovanni:
+      bold: Testimoni dello sposo
+      normal: le sorelle Elisa e Francesca
+    tiziana:
+      bold: Testimoni della sposa
+      normal: i figli Valerio e Sophia
+celebration:
+  description: "Mentre noi faremo una sosta per un breve shooting fotografico nel\
+    \ borgo medioevale di Roccatederighi, i nostri ospiti potranno gustare un delizioso\
+    \ aperitivo alla \"Fattoria La Principina\", un luogo incantato che sembra uscito\
+    \ da una fiaba, pochi chilometri fuori Grosseto, immerso nella pineta della costa\
+    \ maremmana e a pochi passi dal mare. La nostra festa avr\xE0 inizio con l'apertura\
+    \ del buffet verso le 18:30, e proseguir\xE0 tra una portata e l'altra, fino alla\
+    \ torta nuziale, con giochi, balli e musica dal vivo con la splendida voce di\
+    \ Alex Petrini. E, dulcis in fundo, potremo scatenarci e ballare fino a tarda\
+    \ notte."
+  when: 1 Giugno 2024, 17:00 - 00:00
+  where: Fattoria La Principina, via dei Girasoli, 58100 Grosseto (GR)
+ceremony:
+  description: "Convoleremo a giuste nozze nella Chiesa di San Michele Arcangelo,\
+    \ a Sassofortino, un grazioso e antico paesino dell'entroterra maremmano, nel\
+    \ comune di Roccastrada. In questa Chiesa, che per noi riveste un significato\
+    \ speciale, la celebrazione religiosa iniziera' alle ore 15 e ad officiarla sara'\
+    \ il nostro caro amico Don Giovanni Ricciardi. Durante la cerimonia il nostro\
+    \ musicista Alex Petrini far\xE0 commuovere i presenti con alcuni pezzi a chitarra\
+    \ e voce. Al termine della celebrazione liturgica si svolger\xE0 il rito della\
+    \ luce."
+  when: 1 Giugno 2024, 15:00 - 16:00
+  where: Chiesa di San Michele Arcangelo, 58036 Sassofortino (GR)
 confirmpage:
-  title: Compila il modulo per confermare o meno la tua presenza
-  description:
-    Per favore compila un modulo per te e per tutti coloro che ti accompagneranno in modo che la struttura
-    possa offrirti la migliore accoglienza possibile. Ricordati di salvare ogni modulo che compili.
+  description: Per favore compila un modulo per te e per tutti coloro che ti accompagneranno
+    in modo che la struttura possa offrirti la migliore accoglienza possibile. Ricordati
+    di salvare ogni modulo che compili.
   dropbox1:
-    - sar&ograve; solo
-    - sar&ograve; accompagnato
-  programbutton: Programma dell'evento
+  - "sar\xF2 solo"
+  - "sar\xF2 accompagnato"
+  footer:
+    lines:
+    - Non vuoi metterti alla guida dopo la festa? Puoi restare a dormire alla Fattoria
+      La Principina e fare colazione con gli sposi la mattina dopo la cerimonia.
+    - "Facci sapere le tue esigenze e ti sar\xE0 riservato un prezzo di favore."
   inputfields:
-    name: Nome
-    surname: Cognome
+    age: "Et\xE0"
+    allergies: Allergie
+    celiac: Celiachia
     dropbox:
       label: presente
       values:
-        - S&igrave;
-        - No
-    age: Et&agrave;
-    celiac: Celiachia
+      - "S\xEC"
+      - false
     lactose: Intolleranza al lattosio
-    vegetarian: Vegetarianismo
+    name: Nome
+    surname: Cognome
     vegan: Veganismo
-    allergies: Allergie
+    vegetarian: Vegetarianismo
+  programbutton: Programma dell'evento
   savebutton: Salva
-  footer:
-    lines:
-      - Non vuoi metterti alla guida dopo la festa? Puoi restare a dormire alla Fattoria La Principina e
-        fare colazione con gli sposi la mattina dopo la cerimonia.
-      - Facci sapere le tue esigenze e ti sarà riservato un prezzo di favore.
-
-program:
-  title: Matrimonio di Giovanni e Tiziana
-  subtile: Programma dell'evento
-  list:
-    - time: 15:00
-      title: Cerimonia religiosa
-      description:
-        Si svolgerà nella Chiesa di San Michele Arcangelo a Sassofortino, nel comune di Roccastrada (GR) con l'accompagamento musicale di Alex Petrini che farà commuovere i presenti con chitarra e voce.
-        Al termine della celebrazione liturgica si svolgerà il rito della luce.
-    - time: 17:30
-      title: Aperitivo di benvenuto in attesa degli sposi (Fattoria La Principina - Grosseto)
-      description: La Fattoria La Principina, un luogo incantato immerso nella pineta della costa maremmana, situata pochi chilometri fuori Grosseto, sulla strada verso il mare, accoglierà gli ospiti con un ricco aperitivo di benvenuto a bordo piscina, in attesa degli sposi impegnati nello shooting fotografico.
-    - time: 19:00
-      title: Apertura del buffet (sala ristorante) - Inizio festa con gli sposi
-      description: All'arrivo degli sposi inizierà la festa tutti insieme con un ricco buffet di antipasti di ogni genere e l'accompagnamento musicale di Alex Petrini.
-    - time: 20:00
-      title: Cena servita (sala ristorante) MENÙ
-      description: Tra una portata e l'altra, con l'accompagnamento musicale di Alex Petrini, saranno organizzati dagli sposi giochi e balli per il divertimento di tutti.
-    - time: 21:30
-      title: Torta nuziale
-      description: Gli ospiti potranno degustare la torta degli sposi, brindando insieme a loro.
-    - time: 21:45
-      title: Angolo Bar
-      description: Un servizio bar con caffè e liquori sarà a disposizione degli ospiti a fine cena. Sarà servita una tagliata di frutta fresca accompagnata da cioccolato e panna.
-    - time: 22:00
-      title: DJ set
-      description: Potremo scatenarci e ballare fino a tarda notte.
-
+  title: Compila il modulo per confermare o meno la tua presenza
+footer:
+  copyright: Sito web realizzato da Valerio Veneziano
+  info: Per qualunque informazione contattaci
 fullmenu:
-  title: Matrimonio di Giovanni e Tiziana
-  subtile: Menù
   list:
-    - time: 17:30
-      title: Aperitivo di benvenuto (a bordo piscina) in attesa degli sposi
-      plist:
-        clist:
-          - label: Rustici di pastasfoglia al forno farciti con formaggio e prosciutto
-          - label: Pizzette e bocconcini di focaccia farciti
-      footer: Prosecco, Spritz e bevande analcoliche alla frutta
-
-    - time: 19:00
-      title: Apertura del buffet (sala ristorante) - Inizio della festa con gli sposi
-      plist:
-        - clist:
-            - label: Cestini di verdure e mozzarelline fritte, olive ascolane e salvia fritta
-            - label: Salsiccette stagionate di cinghiale
-            - label: Fiori di prosciutto crudo su fette di ananas
-            - label: Salame locale con mozzarella ciliegino
-            - label: Bresaola con parmigiano reggiano, rucola e limone
-            - label: Crostini di baguette con pâté di fegatino toscano
-            - label: Bruschette con pomodorini freschi e basilico
-            - label: Pappa al pomodoro toscana con basilico fresco
-            - label: Ribollita fiorentina con cipollotti a crudo
-        - label: Prosecco, Spritz e bevande analcoliche alla frutta
-
-    - time: 20:00
-      title: Cena servita
-      plist:
-        - label: Primo piatto
-          clist:
-            - Girasoli di pasta fresca con ripieno di formaggi locali, conditi con ragù di anatra
-        - label: Secondo piatto
-          clist:
-            - Filetto di manzo al forno avvolto nel bacon croccante
-        - label: Contorni
-          clist:
-            - Ventaglio di finocchio gratinato
-            - Patate dadolate al forno
-      footer:
-        - label: Vino bianco
-          description: Ansonica dell'Isola del Giglio
-        - label: Vino rosso
-          description: Ciliegiolo locale
-
-    - time: 21:30
-      title: Torta nuziale
-      plist:
-        - label: Brindisi degli sposi con spumante dolce
-
-    - time: 21:45
-      title: Angolo Bar
-      plist:
-        - label: Tagliata di frutta fresca con accompagnamento di cioccolato e panna
+  - footer: Prosecco, Spritz e bevande analcoliche alla frutta
+    plist:
+      clist:
+      - label: Rustici di pastasfoglia al forno farciti con formaggio e prosciutto
+      - label: Pizzette e bocconcini di focaccia farciti
+    time: 1050
+    title: Aperitivo di benvenuto (a bordo piscina) in attesa degli sposi
+  - plist:
+    - clist:
+      - label: Cestini di verdure e mozzarelline fritte, olive ascolane e salvia fritta
+      - label: Salsiccette stagionate di cinghiale
+      - label: Fiori di prosciutto crudo su fette di ananas
+      - label: Salame locale con mozzarella ciliegino
+      - label: Bresaola con parmigiano reggiano, rucola e limone
+      - label: "Crostini di baguette con p\xE2t\xE9 di fegatino toscano"
+      - label: Bruschette con pomodorini freschi e basilico
+      - label: Pappa al pomodoro toscana con basilico fresco
+      - label: Ribollita fiorentina con cipollotti a crudo
+    - label: Prosecco, Spritz e bevande analcoliche alla frutta
+    time: 1140
+    title: Apertura del buffet (sala ristorante) - Inizio della festa con gli sposi
+  - footer:
+    - description: Ansonica dell'Isola del Giglio
+      label: Vino bianco
+    - description: Ciliegiolo locale
+      label: Vino rosso
+    plist:
+    - clist:
+      - "Girasoli di pasta fresca con ripieno di formaggi locali, conditi con rag\xF9\
+        \ di anatra"
+      label: Primo piatto
+    - clist:
+      - Filetto di manzo al forno avvolto nel bacon croccante
+      label: Secondo piatto
+    - clist:
+      - Ventaglio di finocchio gratinato
+      - Patate dadolate al forno
+      label: Contorni
+    time: 1200
+    title: Cena servita
+  - plist:
+    - label: Brindisi degli sposi con spumante dolce
+    time: 1290
+    title: Torta nuziale
+  - plist:
+    - label: Tagliata di frutta fresca con accompagnamento di cioccolato e panna
+    time: 1305
+    title: Angolo Bar
+  subtile: "Men\xF9"
+  title: Matrimonio di Giovanni e Tiziana
+honeymoon:
+  crowdfund: Per contribuire al nostro viaggio di nozze puoi donare qualunque somma
+    aderendo al nostro crowdfunding (raccolta fondi) cliccando sul lama
+  saying: "O tu vai in Per\xF9, o tu sposti la Chiesa, o tu vinci al Totocalcio"
+  title: "La tua presenza al nostro matrimonio \xE8 per noi il dono pi\xF9 bello,\
+    \ ma se desideri omaggiarci con un regalo, puoi aiutarci a realizzare il nostro\
+    \ sogno di una LUNA DI MIELE nel meraviglioso PER\xD9."
+  wire:
+    lines:
+    - label: Intestatario
+      value: Tiziana Scalandrelli
+    - label: IBAN
+      value: IT21B0306234210000001517631
+    - label: Causale
+      value: viaggio di nozze Giovanni e Tiziana
+    title: oppure facendo un bonifico sul c/c bancario
+program:
+  list:
+  - description: "Si svolger\xE0 nella Chiesa di San Michele Arcangelo a Sassofortino,\
+      \ nel comune di Roccastrada (GR) con l'accompagamento musicale di Alex Petrini\
+      \ che far\xE0 commuovere i presenti con chitarra e voce. Al termine della celebrazione\
+      \ liturgica si svolger\xE0 il rito della luce."
+    time: 900
+    title: Cerimonia religiosa
+  - description: "La Fattoria La Principina, un luogo incantato immerso nella pineta\
+      \ della costa maremmana, situata pochi chilometri fuori Grosseto, sulla strada\
+      \ verso il mare, accoglier\xE0 gli ospiti con un ricco aperitivo di benvenuto\
+      \ a bordo piscina, in attesa degli sposi impegnati nello shooting fotografico."
+    time: 1050
+    title: Aperitivo di benvenuto in attesa degli sposi (Fattoria La Principina -
+      Grosseto)
+  - description: "All'arrivo degli sposi inizier\xE0 la festa tutti insieme con un\
+      \ ricco buffet di antipasti di ogni genere e l'accompagnamento musicale di Alex\
+      \ Petrini."
+    time: 1140
+    title: Apertura del buffet (sala ristorante) - Inizio festa con gli sposi
+  - description: Tra una portata e l'altra, con l'accompagnamento musicale di Alex
+      Petrini, saranno organizzati dagli sposi giochi e balli per il divertimento
+      di tutti.
+    time: 1200
+    title: "Cena servita (sala ristorante) MEN\xD9"
+  - description: Gli ospiti potranno degustare la torta degli sposi, brindando insieme
+      a loro.
+    time: 1290
+    title: Torta nuziale
+  - description: "Un servizio bar con caff\xE8 e liquori sar\xE0 a disposizione degli\
+      \ ospiti a fine cena. Sar\xE0 servita una tagliata di frutta fresca accompagnata\
+      \ da cioccolato e panna."
+    time: 1305
+    title: Angolo Bar
+  - description: Potremo scatenarci e ballare fino a tarda notte.
+    time: 1320
+    title: DJ set
+  subtile: Programma dell'evento
+  title: Matrimonio di Giovanni e Tiziana

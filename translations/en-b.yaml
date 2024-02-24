@@ -1,64 +1,31 @@
 betrothed:
-  giovanni:
-    I was born in Rosignano and after wandering around Italy, I landed in Manchester, where I work and live for a good part of the year.
-    I am a software engineer with a passion for engines and speed, nature, mountains and traveling around the world.
-    Reserved and rational, I am extremely sensitive and a little touchy.
-    I love music even if on the dance floor I look more like a "bear".
-    I love the night and sleeping late in the morning.
-    You all complain because I never answer the phone, but maybe they haven't explained to you that the cell phone is used for playing "risk".
-    I was looking for a "lady" with a special soul, with a brilliant mind and a big heart. And when I met Tiziana, I had no doubts.
-    She won me over with her smile, her deep gaze and her delicious "guacamole".
-    She was the one I had been waiting for for over 50 years and now I want her to become mine forever. Perfect for me. Perfect together.
-
-  tiziana:
-    I was born in Grosseto and I have lived my life around Italy and abroad.
-    Restless, impulsive, stubborn and passionate. I've never lived on the surface.
-    I am a lawyer with a passion for the sea, the sun and good wine.
-    I love music, being around people and dancing until the morning.
-    Traveling is my way of life.
-    The most beautiful places I've been to?
-    Mexico and Jordan but the most beautiful place is now in Giovanni's arms and my most beautiful journey begins today with him.
-    My visceral connection with England, where I lived for many years, brought me to him,
-    who conquered my heart with his voice, his complex mind and his still being a spontaneous and sincere child,
-    capable of getting excited about small things. It was unlikely that our lives would intersect but fate had more imagination than us.
+  giovanni: I was born in Rosignano and after wandering around Italy, I landed in
+    Manchester, where I work and live for a good part of the year. I am a software
+    engineer with a passion for engines and speed, nature, mountains and traveling
+    around the world. Reserved and rational, I am extremely sensitive and a little
+    touchy. I love music even if on the dance floor I look more like a "bear". I love
+    the night and sleeping late in the morning. You all complain because I never answer
+    the phone, but maybe they haven't explained to you that the cell phone is used
+    for playing "risk". I was looking for a "lady" with a special soul, with a brilliant
+    mind and a big heart. And when I met Tiziana, I had no doubts. She won me over
+    with her smile, her deep gaze and her delicious "guacamole". She was the one I
+    had been waiting for for over 50 years and now I want her to become mine forever.
     Perfect for me. Perfect together.
-
-ceremony:
-  where: Church of San Michele Arcangelo, 58036 Sassofortino (GR)
-  when: 1 June 2024, 3.00pm - 4.00pm
-  description:
-    We will get married in the Church of San Michele Arcangelo, in Sassofortino,
-    a charming and ancient village in the Maremma hinterland, in the municipality of Roccastrada.
-    In this Church, which has a special meaning for us,
-    the religious celebration will begin at 3 pm and our dear friend Don Giovanni Ricciardi will officiate it.
-    During the ceremony our musician Alex Petrini will move those present with some guitar and vocal pieces.
-    At the end of the liturgical celebration the rite of light will take place.
-
-celebration:
-  where: Fattoria La Principina, via dei Girasoli, 58100 Grosseto (GR)
-  when: 1 June 2024, 5.00pm - 12.00am
-  description:
-    While we will stop for a short photo shoot in the medieval village of Roccatederighi,
-    our guests will be able to enjoy a delicious aperitif at "Fattoria La Principina", an enchanted place that seems to have come out of a fairy tale,
-    a few kilometers outside Grosseto, immersed in the pine forest of the Maremma coast and a few steps from the sea.
-    Our party will begin with the opening of the buffet around 6.30 pm, and will continue between one course and another,
-    up to the wedding cake, with games, dancing and live music with the splendid voice of Alex Petrini.
-    And, last but not least, we will be able to let loose and dance until late at night.
-
+  tiziana: I was born in Grosseto and I have lived my life around Italy and abroad.
+    Restless, impulsive, stubborn and passionate. I've never lived on the surface.
+    I am a lawyer with a passion for the sea, the sun and good wine. I love music,
+    being around people and dancing until the morning. Traveling is my way of life.
+    The most beautiful places I've been to? Mexico and Jordan but the most beautiful
+    place is now in Giovanni's arms and my most beautiful journey begins today with
+    him. My visceral connection with England, where I lived for many years, brought
+    me to him, who conquered my heart with his voice, his complex mind and his still
+    being a spontaneous and sincere child, capable of getting excited about small
+    things. It was unlikely that our lives would intersect but fate had more imagination
+    than us. Perfect for me. Perfect together.
 cast:
-  priest:
-    bold: Officiating priest
-    normal: Don Giovanni Ricciardi
-  witnesses:
-    giovanni:
-      bold: Groomsmen
-      normal: the sisters Elisa and Francesca
-    tiziana:
-      bold: Witnesses
-      normal: the children Valerio and Sophia
-  pageboy:
-    bold: Pageboy
-    normal: the groom's son Alessandro
+  cakes:
+    bold: Wedding cake
+    normal: Montanelli Pastry Shop (GR)
   chaperone:
     giovanni:
       bold: Accompany the groom
@@ -66,12 +33,6 @@ cast:
     tiziana:
       bold: Accompany the bride
       normal: brother Antonio
-  logo:
-    bold: Wedding logo (Angels)
-    normal: the bride's daughter Sophia
-  drivers:
-    bold: Driver of the bride and groom
-    normal: the son of the bride Valerio
   dresses:
     giovanni:
       bold: 2do
@@ -79,149 +40,194 @@ cast:
     tiziana:
       bold: Bride's dress
       normal: Wed 2B (Stock on Trent, UK)
+  drivers:
+    bold: Driver of the bride and groom
+    normal: the son of the bride Valerio
   flowers:
     bold: Floral decorations
     normal: Patrizia by Michela Zanelli (GR)
-  cakes:
-    bold: Wedding cake
-    normal: Montanelli Pastry Shop (GR)
-  rings:
-    bold: Wedding rings
-    normal: Cartesio goldsmith workshop by Gabriella Cartella (GR)
+  logo:
+    bold: Wedding logo (Angels)
+    normal: the bride's daughter Sophia
   menu:
     bold: Menu and placeholder
     normal: La Stampa printing house (GR)
-
-footer:
-  info: For any information contact us
-  copyright: Website created by Valerio Veneziano
-
-honeymoon:
-  title:
-    Your presence at our wedding is for us the greatest gift nice, but if you want to pay homage to us with a gift,
-    you can help us realize our dream of a HONEYMOON in the wonderful PER&#217.
-  saying: Either you go to Per&ugrave;, or you move the Church, or you win the football pools
-  crowdfund: To contribute to our honeymoon you can donate any amount by joining our crowdfunding (fundraising) by clicking on the llama
-  wires:
-    title: or by making a bank transfer
-    lines:
-      - label: Owner
-        value: Tiziana Scalandrelli
-      - label: IBAN
-        value: IT21B0306234210000001517631
-      - label: Reason
-        value: "Giovanni and Tiziana's honeymoon"
-
+  pageboy:
+    bold: Pageboy
+    normal: the groom's son Alessandro
+  priest:
+    bold: Officiating priest
+    normal: Don Giovanni Ricciardi
+  rings:
+    bold: Wedding rings
+    normal: Cartesio goldsmith workshop by Gabriella Cartella (GR)
+  witnesses:
+    giovanni:
+      bold: Groomsmen
+      normal: the sisters Elisa and Francesca
+    tiziana:
+      bold: Witnesses
+      normal: the children Valerio and Sophia
+celebration:
+  description: While we will stop for a short photo shoot in the medieval village
+    of Roccatederighi, our guests will be able to enjoy a delicious aperitif at "Fattoria
+    La Principina", an enchanted place that seems to have come out of a fairy tale,
+    a few kilometers outside Grosseto, immersed in the pine forest of the Maremma
+    coast and a few steps from the sea. Our party will begin with the opening of the
+    buffet around 6.30 pm, and will continue between one course and another, up to
+    the wedding cake, with games, dancing and live music with the splendid voice of
+    Alex Petrini. And, last but not least, we will be able to let loose and dance
+    until late at night.
+  when: 1 June 2024, 5.00pm - 12.00am
+  where: Fattoria La Principina, via dei Girasoli, 58100 Grosseto (GR)
+ceremony:
+  description: We will get married in the Church of San Michele Arcangelo, in Sassofortino,
+    a charming and ancient village in the Maremma hinterland, in the municipality
+    of Roccastrada. In this Church, which has a special meaning for us, the religious
+    celebration will begin at 3 pm and our dear friend Don Giovanni Ricciardi will
+    officiate it. During the ceremony our musician Alex Petrini will move those present
+    with some guitar and vocal pieces. At the end of the liturgical celebration the
+    rite of light will take place.
+  when: 1 June 2024, 3.00pm - 4.00pm
+  where: Church of San Michele Arcangelo, 58036 Sassofortino (GR)
 confirmpage:
-  title: Fill out the form to confirm or not your presence
-  description:
-    Please fill out a form for yourself and anyone who will be accompanying you so that the facility
-    can offer you the best possible welcome. Remember to save every form you fill out.
+  description: Please fill out a form for yourself and anyone who will be accompanying
+    you so that the facility can offer you the best possible welcome. Remember to
+    save every form you fill out.
   dropbox1:
-    - I will be Alone
-    - I will be accompanied
-  programbutton: Event program
+  - I will be Alone
+  - I will be accompanied
+  footer:
+    lines:
+    - Don't want to drive after the party? You can stay and sleep at Fattoria La Principina
+      e have breakfast with the newlyweds the morning after the ceremony.
+    - Let us know your needs and a favorable price will be reserved for you.
   inputfields:
-    name: Name
-    surname: Surname
+    age: Age
+    allergies: Allergies
+    celiac: Celiac disease
     dropbox:
       label: present
       values:
-        - Yes
-        - No
-    age: Age
-    celiac: Celiac disease
+      - true
+      - false
     lactose: Lactose intolerance
-    vegetarian: Vegetarianism
+    name: Name
+    surname: Surname
     vegan: Veganism
-    allergies: Allergies
+    vegetarian: Vegetarianism
+  programbutton: Event program
   savebutton: Save
-  footer:
-    lines:
-      - Don't want to drive after the party? You can stay and sleep at Fattoria La Principina e
-        have breakfast with the newlyweds the morning after the ceremony.
-      - Let us know your needs and a favorable price will be reserved for you.
-
-program:
-  title: Wedding of Giovanni and Tiziana
-  subtile: Event schedule
-  list:
-    - time: 15:00
-      title: Religious ceremony
-      description:
-        It will take place in the Church of San Michele Arcangelo in Sassofortino, in the municipality of Roccastrada (GR) with the musical accompaniment of Alex Petrini who will move those present with guitar and voice.
-        At the end of the liturgical celebration the rite of light will take place.
-    - time: 5.30pm
-      title: Welcome aperitif waiting for the bride and groom (Fattoria La Principina - Grosseto)
-      description: The Fattoria La Principina, an enchanting place immersed in the pine forest of the Maremma coast, located a few kilometers outside Grosseto, on the road towards the sea, will welcome guests with a rich welcome aperitif by the pool, waiting for the newlyweds engaged in the photo shoot .
-    - time: 19:00
-      title: Opening of the buffet (restaurant room) - Start of the party with the newlyweds
-      description: Upon the arrival of the spouses, the party will begin all together with a rich buffet of appetizers of all kinds and the musical accompaniment of Alex Petrini.
-    - time: 20:00
-      title: Dinner served (restaurant room) MENU
-      description: Between one course and another, with the musical accompaniment of Alex Petrini, games and dances will be organized by the spouses for everyone's enjoyment.
-    - time: 9.30pm
-      title: Wedding cake
-      description: Guests will be able to taste the bride and groom's cake, toasting with them.
-    - time: 9.45pm
-      title: Bar corner
-      description: A bar service with coffee and liqueurs will be available to guests at the end of dinner. A slice of fresh fruit will be served accompanied by chocolate and cream.
-    - time: 10pm
-      title: DJ set
-      description: We can let loose and dance until late at night.
-
+  title: Fill out the form to confirm or not your presence
+footer:
+  copyright: Website created by Valerio Veneziano
+  info: For any information contact us
 fullmenu:
-  title: Wedding of Giovanni and Tiziana
-  subtile: Menu
   list:
-    - time: 5.30pm
-      title: Welcome drink (by the pool) waiting for the bride and groom
-      plist:
-        clist:
-          - label: Rustic baked puff pastry stuffed with cheese and ham
-          - label: Pizzas and stuffed focaccia morsels
-      footer: Prosecco, Spritz and non-alcoholic fruit drinks
-
-    - time: 19:00
-      title: Opening of the buffet (restaurant room) - Start of the party with the bride and groom
-      plist:
-        - clist:
-            - label: Baskets of vegetables and fried mozzarella, Ascoli olives and fried sage
-            - label: Seasoned wild boar sausages
-            - label: Raw ham flowers on pineapple slices
-            - label: Local salami with cherry mozzarella
-            - label: Bresaola with parmigiano reggiano, rocket and lemon
-            - label: Baguette crostini with Tuscan liver pâté
-            - label: Bruschetta with fresh cherry tomatoes and basil
-            - label: Tuscan tomato soup with fresh basil
-            - label: Ribollita fiorentina with raw spring onions
-        - label: Prosecco, Spritz and non-alcoholic fruit drinks
-
-    - time: 20:00
-      title: Dinner served
-      plist:
-        - label: First course
-          clist:
-            - Fresh pasta girasoli filled with local cheeses, seasoned with duck ragù
-        - label: Second course
-          clist:
-            - Baked beef fillet wrapped in crispy bacon
-        - label: Side dishes
-          clist:
-            - Gratin fennel fan
-            - Baked diced potatoes
-      footer:
-        - label: White wine
-          description: Ansonica from Giglio Island
-        - label: Red wine
-          description: Local Ciliegiolo
-
-    - time: 9.30pm
-      title: Wedding cake
-      plist:
-        - label: Brindisi of the spouses with sweet sparkling wine
-
-    - time: 9.45pm
-      title: Bar corner
-      plist:
-        - label: Sliced fresh fruit accompanied by chocolate and cream
+  - footer: Prosecco, Spritz and non-alcoholic fruit drinks
+    plist:
+      clist:
+      - label: Rustic baked puff pastry stuffed with cheese and ham
+      - label: Pizzas and stuffed focaccia morsels
+    time: 5.30pm
+    title: Welcome drink (by the pool) waiting for the bride and groom
+  - plist:
+    - clist:
+      - label: Baskets of vegetables and fried mozzarella, Ascoli olives and fried
+          sage
+      - label: Seasoned wild boar sausages
+      - label: Raw ham flowers on pineapple slices
+      - label: Local salami with cherry mozzarella
+      - label: Bresaola with parmigiano reggiano, rocket and lemon
+      - label: "Baguette crostini with Tuscan liver p\xE2t\xE9"
+      - label: Bruschetta with fresh cherry tomatoes and basil
+      - label: Tuscan tomato soup with fresh basil
+      - label: Ribollita fiorentina with raw spring onions
+    - label: Prosecco, Spritz and non-alcoholic fruit drinks
+    time: 1140
+    title: Opening of the buffet (restaurant room) - Start of the party with the bride
+      and groom
+  - footer:
+    - description: Ansonica from Giglio Island
+      label: White wine
+    - description: Local Ciliegiolo
+      label: Red wine
+    plist:
+    - clist:
+      - "Fresh pasta girasoli filled with local cheeses, seasoned with duck rag\xF9"
+      label: First course
+    - clist:
+      - Baked beef fillet wrapped in crispy bacon
+      label: Second course
+    - clist:
+      - Gratin fennel fan
+      - Baked diced potatoes
+      label: Side dishes
+    time: 1200
+    title: Dinner served
+  - plist:
+    - label: Brindisi of the spouses with sweet sparkling wine
+    time: 9.30pm
+    title: Wedding cake
+  - plist:
+    - label: Sliced fresh fruit accompanied by chocolate and cream
+    time: 9.45pm
+    title: Bar corner
+  subtile: Menu
+  title: Wedding of Giovanni and Tiziana
+honeymoon:
+  crowdfund: To contribute to our honeymoon you can donate any amount by joining our
+    crowdfunding (fundraising) by clicking on the llama
+  saying: "Either you go to Per\xF9, or you move the Church, or you win the football\
+    \ pools"
+  title: "Your presence at our wedding is for us the greatest gift nice, but if you\
+    \ want to pay homage to us with a gift, you can help us realize our dream of a\
+    \ HONEYMOON in the wonderful PER\xD9."
+  wires:
+    lines:
+    - label: Owner
+      value: Tiziana Scalandrelli
+    - label: IBAN
+      value: IT21B0306234210000001517631
+    - label: Reason
+      value: Giovanni and Tiziana's honeymoon
+    title: or by making a bank transfer
+program:
+  list:
+  - description: It will take place in the Church of San Michele Arcangelo in Sassofortino,
+      in the municipality of Roccastrada (GR) with the musical accompaniment of Alex
+      Petrini who will move those present with guitar and voice. At the end of the
+      liturgical celebration the rite of light will take place.
+    time: 900
+    title: Religious ceremony
+  - description: The Fattoria La Principina, an enchanting place immersed in the pine
+      forest of the Maremma coast, located a few kilometers outside Grosseto, on the
+      road towards the sea, will welcome guests with a rich welcome aperitif by the
+      pool, waiting for the newlyweds engaged in the photo shoot .
+    time: 5.30pm
+    title: Welcome aperitif waiting for the bride and groom (Fattoria La Principina
+      - Grosseto)
+  - description: Upon the arrival of the spouses, the party will begin all together
+      with a rich buffet of appetizers of all kinds and the musical accompaniment
+      of Alex Petrini.
+    time: 1140
+    title: Opening of the buffet (restaurant room) - Start of the party with the newlyweds
+  - description: Between one course and another, with the musical accompaniment of
+      Alex Petrini, games and dances will be organized by the spouses for everyone's
+      enjoyment.
+    time: 1200
+    title: Dinner served (restaurant room) MENU
+  - description: Guests will be able to taste the bride and groom's cake, toasting
+      with them.
+    time: 9.30pm
+    title: Wedding cake
+  - description: A bar service with coffee and liqueurs will be available to guests
+      at the end of dinner. A slice of fresh fruit will be served accompanied by chocolate
+      and cream.
+    time: 9.45pm
+    title: Bar corner
+  - description: We can let loose and dance until late at night.
+    time: 10pm
+    title: DJ set
+  subtile: Event schedule
+  title: Wedding of Giovanni and Tiziana

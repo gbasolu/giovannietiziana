@@ -131,5 +131,14 @@ def save(language='it'):
 
 @app.route('/download/<language>', methods=['GET'])
 def download(language):
-    filename=f'./translations/{language}-b.yaml'
-    return send_file(filename, as_attachment=True)
+    source_filename=f'./translations/{language}-b.yaml'
+    target_filename=f'./translations/{language}-b.json'
+    with open(source_filename, 'r') as file:
+
+        source_content = yaml.safe_load(file)
+
+    output = json.dumps(source_content)
+    target_file = open(target_filename, "w")
+    target_file.write(output)
+    target_file.close()
+    return send_file(target_file, as_attachment=True)

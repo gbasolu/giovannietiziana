@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, redirect, send_from_directory, send_file
 from flask_cors import CORS
 import logging
 import json
@@ -17,7 +17,7 @@ def file_manager(language):
         translation = yaml.safe_load(file)
         full_page=navigate_object(translation, [], full_page)
 
-    full_page=f"<form action='/save' method='post'>{full_page} <input type='submit' value='Submit'></form>"
+    full_page=f"<form action='/save/{language}' method='post'>{full_page} <input type='submit' value='Submit'></form>"
     return full_page
 
 def navigate_object(obj, path, full_page):
@@ -56,20 +56,44 @@ def navigate_object(obj, path, full_page):
             # values.append({key: navigate_object(value)})  # Preserve object structure
     return full_page
 
+
+@app.route('/edit')
+def edit():
+    page="""
+    <html>
+        <body>
+            <div>
+                Inglese
+                <a href="/edit/en">EDIT</a>
+                <a href="/download/en">DOWNLOAD</a>
+
+            </div>
+            <div>
+                Italiano
+                <a href="/edit/it">EDIT</a>
+                <a href="/download/it">DOWNLOAD</a>
+            </div>
+        </body>
+    </html>
+    """
+
+    return page
+
+
 @app.route('/edit/<language>')
-def edit(language='it'):
+def edit_lang(language='it'):
     page=file_manager(language)
 
     return page
     # return jsonify({"msg": page})
 
-@app.route('/save', methods=['POST'])
-def save():
+@app.route('/save/<language>', methods=['POST'])
+def save(language='it'):
     # page=file_manager()
     print(request.get_data())
     # data = json.loads(request.get_data())
     # print(data)
-    filename='./translations/it-b.yaml'
+    filename=f'./translations/{language}-b.yaml'
 
     with open(filename, 'r') as file:
 
@@ -90,14 +114,22 @@ def save():
             try:
                 item_to_replace = item_to_replace[key_part]
             except Exception as e:
+                print(e)
                 item_to_replace = item_to_replace[int(key_part)]
         try:
             pointer_to_item_to_replace[last_index] = request.form[key]
         except Exception as e:
+            print(e)
             pointer_to_item_to_replace[int(last_index)] = request.form[key]
         print(f"OLD: {item_to_replace}")
     
     with open(f"{filename}", 'w') as file:
         yaml.dump(translation, file)
 
-    return jsonify({"Saved": 1})
+    # return jsonify({"Saved": 1})
+    return redirect("/edit", code=302)
+
+@app.route('/download/<language>', methods=['GET'])
+def download(language):
+    filename=f'./translations/{language}-b.yaml'
+    return send_file(filename, as_attachment=True)
